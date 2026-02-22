@@ -1,6 +1,6 @@
 # 🚆 Railway Reservation System with Modular Booking & Payment Validation
 
-![Thumbnail](assets/thumbnail.png)
+![Thumbnail](assets/railway_reservation_system_thumbnail.png)
 
 ---
 
@@ -118,7 +118,7 @@ To ensure data accuracy and integrity, the system includes:
 
 ## 🧩 UML Diagram
 
-![UML Diagram](assets/uml-diagram.png)
+![UML Diagram](assets/railway_reservation_system_UML.png)
 
 ---
 
